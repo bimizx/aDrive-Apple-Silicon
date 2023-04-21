@@ -1,2 +1,1 @@
-# aDrive-Apple-Silicon
-aDrive-Apple-Silicon
+阿里云盘macOS的arm64版本，自己移植的，相比官方的x86版本使用起来提速巨大。
